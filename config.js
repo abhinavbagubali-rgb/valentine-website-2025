@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Cant wait to be your boysenberry this year!!!",
-        message: "you can now redeem a free kiss and hug (that is to tight that it will squeeze your bones)",
+        message: "you can now redeem a free kiss and hug (that will squeeze your bones)",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
